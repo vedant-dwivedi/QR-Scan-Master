@@ -13,7 +13,7 @@ Welcome to QRScanner, a simple tool to convert text into QR codes and scan QR co
 
 ## Description
 
-QRScanner is an easy-to-use text to QR code. Quickly generate QR codes for any text and effortlessly scan QR codes to extract the embedded information.Enhance user experiences with the power of visual communication.
+QRScanner is an easy-to-use text to QR code. Quickly generate QR codes for any text and effortlessly scan QR codes to extract the embedded information.
 
 ## Features
 
